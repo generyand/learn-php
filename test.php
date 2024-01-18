@@ -1,5 +1,4 @@
 <?php
-    echo 'Hello, dfaasasd2sd!';
-    $num = 1;
-    var_dump($num);
+    echo 'gi ilisdan nakuasdfasdf';
+    print('hehe');
 ?>
